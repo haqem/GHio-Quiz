@@ -9,6 +9,7 @@ The icon, graphic, design in this project is from [upklyak on Freepik](https://w
 
 ## Latest dev.to posts:
 <!-- BLOG-POST-LIST:START -->
+- [New to Dev.to](https://dev.to/haqem/new-to-devto-2c20)
 <!-- BLOG-POST-LIST:END -->
 
 [![](https://data.jsdelivr.com/v1/package/gh/haqem/GHio-game/badge)](https://www.jsdelivr.com/package/gh/haqem/GHio-game)
