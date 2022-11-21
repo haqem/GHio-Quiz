@@ -1,6 +1,10 @@
 # GHio-Quiz
 GHio Game stand for GitHub Haqem io that represent [haqem.github.io](https://haqem.github.io) where you can find all the resources that you need.
 
+## GHio Quiz Release
+Version 1 (November 22, 2022)
+- Build and deploy new GHio Quiz
+
 ## Usage
 This application was build using `Unity Editor 2021.3.11f1 Win`. Use the `GHio-Quiz` folder to open from local. If you using this file for your project please update the appropriate code and the design as well. This file comes with the tracking usage, anything changes in this file will be recorded.
 
